@@ -112,5 +112,7 @@
       "system": "TheWitcherTRPG"
     }
   ],
-  "url": "https://github.com/Godsassassin007/Witcher-Compendium/edit/main/wtrpg-compendium/module.json"
+  "url": "https://github.com/Godsassassin007/Witcher-Compendium"
+   "manifest": "https://github.com/Godsassassin007/Witcher-Compendium/blob/main/wtrpg-compendium/module.json",
+  "download": "https://github.com/Godsassassin007/Witcher-Compendium/tree/main/wtrpg-compendium/packs"
 }
